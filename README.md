@@ -14,3 +14,6 @@ I required this space to document these stuff.
 ## Books:
 
 - **Deep Learning · Ian Goodfellow and Yoshua Bengio and Aaron Courville** - https://www.deeplearningbook.org/
+
+# Additional content
+- [Remote Sensing related resources](./remote_sensing/README.md)
