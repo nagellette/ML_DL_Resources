@@ -15,5 +15,7 @@ I required this space to document these stuff.
 
 - **Deep Learning · Ian Goodfellow and Yoshua Bengio and Aaron Courville** - https://www.deeplearningbook.org/
 
+- **Data Science and Machine Learning: Mathematical and Statistical Methods  · D.P. Kroese, Z.I. Botev, T. Taimre, R. Vaisman** - https://acems.org.au/data-science-machine-learning-book-available-download
+
 # Additional content
 - [Remote Sensing related resources](./remote_sensing/README.md)
