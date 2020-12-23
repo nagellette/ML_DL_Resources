@@ -20,3 +20,4 @@ I required this space to document these stuff.
 
 # Additional content
 - [Remote Sensing related resources](./remote_sensing/README.md)
+- [Resources on mathematics](./mathematics/README.md)
