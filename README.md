@@ -11,6 +11,7 @@ I required this space to document these stuff.
 - **MIT 6.S191 Introduction to Deep Learning** - Alexander Amini & Ava Soleimany - http://introtodeeplearning.com/
 - **Deep Learning and Artificial Intelligence Lectures · MIT** - Lex Fridman, Research Scientist - https://deeplearning.mit.edu/
 - **TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial** - freeCodeCamp.org - https://www.youtube.com/watch?v=tPYj3fFJGjk
+- **Neural Networks for Machine Learning** - Geoffrey Hinton - https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
 
 ## Books:
 
