@@ -20,6 +20,6 @@ I required this space to document these stuff.
 - **Data Science and Machine Learning: Mathematical and Statistical Methods** · D.P. Kroese, Z.I. Botev, T. Taimre, R. Vaisman - https://acems.org.au/data-science-machine-learning-book-available-download
 
 # Additional content
-- [Remote Sensing related resources](./remote_sensing/README.md)
+- [Remote Sensing & GIScience related resources](remote_sensing_giscience/README.md)
 - [Resources on mathematics](./mathematics/README.md)
 - [Resources on HPC](./HPC/README.md)
