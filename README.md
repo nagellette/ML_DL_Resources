@@ -12,6 +12,8 @@ I required this space to document these stuff.
 - **Deep Learning and Artificial Intelligence Lectures · MIT** - Lex Fridman, Research Scientist - https://deeplearning.mit.edu/
 - **TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial** - freeCodeCamp.org - https://www.youtube.com/watch?v=tPYj3fFJGjk
 - **Neural Networks for Machine Learning** - Geoffrey Hinton - https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+- **Deep Learning in Computer Vision** - Prof. Kosta Derpanis - https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
+- **Deep Learning Course of Unige/EPFL** - François Fleuret/University of Geneva - https://fleuret.org/dlc/
 
 ## Books:
 
