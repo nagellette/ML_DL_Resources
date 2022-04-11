@@ -21,6 +21,7 @@ I required this space to document these stuff.
 
 - **Data Science and Machine Learning: Mathematical and Statistical Methods** · D.P. Kroese, Z.I. Botev, T. Taimre, R. Vaisman - https://acems.org.au/data-science-machine-learning-book-available-download
 - **The Machine & Deep Learning Compendium** - https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/
+- **Interpretable Machine Learning - A Guide for Making Black Box Models Explainable** - https://christophm.github.io/interpretable-ml-book/
 
 # Additional content
 - [Remote Sensing & GIScience related resources](remote_sensing_giscience/README.md)
