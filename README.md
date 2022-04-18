@@ -14,6 +14,7 @@ I required this space to document these stuff.
 - **Neural Networks for Machine Learning** - Geoffrey Hinton - https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
 - **Deep Learning in Computer Vision** - Prof. Kosta Derpanis - https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
 - **Deep Learning Course of Unige/EPFL** - François Fleuret/University of Geneva - https://fleuret.org/dlc/
+- **CS109a: Introduction to Data Science** - Pavlos Protopapas, Kevin A. Rader, and Chris Tanner - https://harvard-iacs.github.io/2019-CS109A/
 
 ## Books:
 
@@ -22,6 +23,8 @@ I required this space to document these stuff.
 - **Data Science and Machine Learning: Mathematical and Statistical Methods** · D.P. Kroese, Z.I. Botev, T. Taimre, R. Vaisman - https://acems.org.au/data-science-machine-learning-book-available-download
 - **The Machine & Deep Learning Compendium** - https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/
 - **Interpretable Machine Learning - A Guide for Making Black Box Models Explainable** - https://christophm.github.io/interpretable-ml-book/
+- **Introduction to Probability for Data Science** - Stanley H. Chan - https://probability4datascience.com/
+- **Neural Networks and Deep Learning** - Michael Nielsen - http://neuralnetworksanddeeplearning.com/
 
 # Additional content
 - [Remote Sensing & GIScience related resources](remote_sensing_giscience/README.md)
