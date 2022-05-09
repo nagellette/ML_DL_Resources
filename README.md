@@ -15,6 +15,7 @@ I required this space to document these stuff.
 - **Deep Learning in Computer Vision** - Prof. Kosta Derpanis - https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/
 - **Deep Learning Course of Unige/EPFL** - François Fleuret/University of Geneva - https://fleuret.org/dlc/
 - **CS109a: Introduction to Data Science** - Pavlos Protopapas, Kevin A. Rader, and Chris Tanner - https://harvard-iacs.github.io/2019-CS109A/
+- **ML Course Notes** - Democratizing Artificial Intelligence Research - https://github.com/dair-ai/ML-Course-Notes
 
 ## Books:
 
