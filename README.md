@@ -16,6 +16,9 @@ I required this space to document these stuff.
 - **Deep Learning Course of Unige/EPFL** - François Fleuret/University of Geneva - https://fleuret.org/dlc/
 - **CS109a: Introduction to Data Science** - Pavlos Protopapas, Kevin A. Rader, and Chris Tanner - https://harvard-iacs.github.io/2019-CS109A/
 - **ML Course Notes** - Democratizing Artificial Intelligence Research - https://github.com/dair-ai/ML-Course-Notes
+- **Advance Computer Vision Course** - Mubarak Shah - https://www.crcv.ucf.edu/courses/cap6412-spring-2022/schedule/
+- **Introduction to Deep Learning (I2DL) (IN2346)** - Prof. Matthias Nießner - https://niessner.github.io/I2DL/
+- **CS 25: Transformers United** - Div Grag, et. al. - https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
 
 ## Books:
 
