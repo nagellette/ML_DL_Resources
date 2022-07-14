@@ -18,7 +18,7 @@ I required this space to document these stuff.
 - **ML Course Notes** - Democratizing Artificial Intelligence Research - https://github.com/dair-ai/ML-Course-Notes
 - **Advance Computer Vision Course** - Mubarak Shah - https://www.crcv.ucf.edu/courses/cap6412-spring-2022/schedule/
 - **Introduction to Deep Learning (I2DL) (IN2346)** - Prof. Matthias Nießner - https://niessner.github.io/I2DL/
-- **CS 25: Transformers United** - Div Grag, et. al. - https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
+- **CS 25: Transformers United** - Div Grag, et. al. - https://web.stanford.edu/class/cs25/
 
 ## Books:
 
