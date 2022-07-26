@@ -32,6 +32,7 @@ I required this space to document these stuff.
 
 ## Similar content lists:
 - **Machine Learning Tutorials from _ujjwalkarn_** - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+- **List of Aman Chadha** - https://aman.ai/
 
 # Additional content
 - [Remote Sensing & GIScience related resources](remote_sensing_giscience/README.md)
