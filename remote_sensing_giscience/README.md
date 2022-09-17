@@ -8,3 +8,4 @@
 
 ## GIScience
 - **Geographic Data Science** - Dr. Dani Arribas-Bel @ the University of Liverpool - https://darribas.org/gds_course/content/home.html
+- **Fundamentals of Data Visualization** - Claus O. Wilke - https://clauswilke.com/dataviz/
