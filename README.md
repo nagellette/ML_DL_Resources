@@ -37,7 +37,7 @@ I required this space to document these stuff.
 - **Machine Learning Tutorials from _ujjwalkarn_** - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - **List of Aman Chadha** - https://aman.ai/
 - **applied-ml by eugeneyan** - https://github.com/eugeneyan/applied-ml#recommendation
-- **AI Curriculum - Machine Learning Tokyo ** - https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+- **AI Curriculum - Machine Learning Tokyo** - https://github.com/Machine-Learning-Tokyo/AI_Curriculum
 
 # Additional content
 - [Remote Sensing & GIScience related resources](remote_sensing_giscience/README.md)
