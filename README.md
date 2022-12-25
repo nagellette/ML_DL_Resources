@@ -20,6 +20,7 @@ I required this space to document these stuff.
 - **Introduction to Deep Learning (I2DL) (IN2346)** - Prof. Matthias Nießner - https://niessner.github.io/I2DL/
 - **CS 25: Transformers United** - Div Grag, et. al. - https://web.stanford.edu/class/cs25/
 - **ECS498-007: Deep Learning for Computer Vision** - Justin Johnson - https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/schedule.html
+- **Introduction to Machine Learning** - Google - https://developers.google.com/machine-learning/crash-course/ml-intro
 
 ## Books:
 
