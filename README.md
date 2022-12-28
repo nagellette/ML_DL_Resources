@@ -39,6 +39,7 @@ I required this space to document these stuff.
 - **List of Aman Chadha** - https://aman.ai/
 - **applied-ml by eugeneyan** - https://github.com/eugeneyan/applied-ml#recommendation
 - **AI Curriculum - Machine Learning Tokyo** - https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+- **List of Sam Finlayson** - https://sgfin.github.io/learning-resources/?s=08#misc
 
 # Additional content
 - [Remote Sensing & GIScience related resources](remote_sensing_giscience/README.md)
