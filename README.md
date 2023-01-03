@@ -21,6 +21,7 @@ I required this space to document these stuff.
 - **CS 25: Transformers United** - Div Grag, et. al. - https://web.stanford.edu/class/cs25/
 - **ECS498-007: Deep Learning for Computer Vision** - Justin Johnson - https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/schedule.html
 - **Introduction to Machine Learning** - Google - https://developers.google.com/machine-learning/crash-course/ml-intro
+- **UvA Deep Learning Tutorials** - Phillip Lippe - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html, https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA
 
 ## Books:
 
