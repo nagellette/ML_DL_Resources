@@ -22,6 +22,7 @@ I required this space to document these stuff.
 - **ECS498-007: Deep Learning for Computer Vision** - Justin Johnson - https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/schedule.html
 - **Introduction to Machine Learning** - Google - https://developers.google.com/machine-learning/crash-course/ml-intro
 - **UvA Deep Learning Tutorials** - Phillip Lippe - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html, https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA
+- **Applied Machine Learning (Cornell CS5785)** - Volodymyr Kuleshov - https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
 
 ## Books:
 
