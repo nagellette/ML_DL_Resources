@@ -23,6 +23,7 @@ I required this space to document these stuff.
 - **Introduction to Machine Learning** - Google - https://developers.google.com/machine-learning/crash-course/ml-intro
 - **UvA Deep Learning Tutorials** - Phillip Lippe - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html, https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA
 - **Applied Machine Learning (Cornell CS5785)** - Volodymyr Kuleshov - https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+- **Carnegie Mellon University Deep Learning - 11785 Fall 2022** - Bhiksha Raj and Rita Singh - https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9
 
 ## Books:
 
