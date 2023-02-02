@@ -3,8 +3,8 @@
 ## Remote Sensing
 ### Online Courses:
 - **Parallel and Scalable Machine Learning for Remote Sensing Big Data** - Gabriele Cavallaro - https://www.gabriele-cavallaro.com/teaching/parallel-and-scalable-machine-learning-for-remote-sensing-big-data-ws-2020-2021
-
 - **Earth Data Science** - Earthlab - https://www.earthdatascience.org/
+- **Advanced Machine Learning for Remote Sensing (2020) - University of Bonn** - Ribana Roscher - https://www.youtube.com/playlist?list=PLzvRrSe1_bqjGthl2s_FG6AnNYjihUlMS
 
 ## GIScience
 - **Geographic Data Science** - Dr. Dani Arribas-Bel @ the University of Liverpool - https://darribas.org/gds_course/content/home.html
