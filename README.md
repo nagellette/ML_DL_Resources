@@ -24,6 +24,7 @@ I required this space to document these stuff.
 - **UvA Deep Learning Tutorials** - Phillip Lippe - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html, https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA
 - **Applied Machine Learning (Cornell CS5785)** - Volodymyr Kuleshov - https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
 - **Carnegie Mellon University Deep Learning - 11785 Fall 2022** - Bhiksha Raj and Rita Singh - https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9
+- **Machine Learning Blinks** - BASIRA Lab- https://www.youtube.com/playlist?list=PLug43ldmRSo1LDlvQOPzgoJ6wKnfmzimQ
 
 ## Books:
 
