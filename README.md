@@ -37,6 +37,7 @@ I required this space to document these stuff.
 - **Neural Networks and Deep Learning** - Michael Nielsen - http://neuralnetworksanddeeplearning.com/
 - **Dive into Deep Learning** - Ston Zhang, Zachary C. Lipton, Mu Li, And Alexander J. Smola - http://d2l.ai/
 - **Understanding Deep Learning** - Simon J.D. Prince - https://udlbook.github.io/udlbook/
+- **Algorithms for Decision Making** - Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray  - https://algorithmsbook.com/
 
 ## Similar content lists:
 - **Machine Learning Tutorials from _ujjwalkarn_** - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
