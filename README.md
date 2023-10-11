@@ -6,6 +6,7 @@ I required this space to document these stuff.
 
 ## Online Courses:
 
+- **Deep Learning Course 14x050 of the University of Geneva** - François Fleuret - https://fleuret.org/dlc/
 - **DS-GA 1008 · SPRING 2020** - Yann LeCun & Alfredo Canziani - https://atcold.github.io/pytorch-Deep-Learning/
 - **mlcourse.ai · OpenDataScience** - Yury Kashnitsky - https://mlcourse.ai/
 - **MIT 6.S191 Introduction to Deep Learning** - Alexander Amini & Ava Soleimany - http://introtodeeplearning.com/
